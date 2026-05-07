@@ -1,5 +1,5 @@
 # 🏛️ ApiCrumbs Archive: SUFFOLK-FINANCE-COMPANIES-IDENTITY-VERIFIER-DOSSIER
-![Last Sync](https://shields.io/badge/Synchronised-2026--05--05-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/100_UPDATED-emerald?style=for-the-badge)
+![Last Sync](https://shields.io/badge/Synchronised-2026--05--07-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/100_UPDATED-emerald?style=for-the-badge)
 
 📦 **Books in Shard:** 100 | 🛡️ **Tier:** PUBLIC_SNAPSHOT
 ⚡ **Latest Press Run:** 100 printed / 471 skipped (up-to-date).
